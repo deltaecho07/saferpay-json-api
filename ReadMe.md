@@ -17,9 +17,9 @@ For more information about the Saferpay API, please refer to the official docume
 Add the following dependency to your pom.xml file:
 ```xml
 <dependency>
-    <groupId>com.deltaecho07</groupId>
-    <artifactId>saferpay</artifactId>
-    <version>2024-11-1-beta</version>
+    <groupId>io.github.deltaecho07</groupId>
+    <artifactId>saferpay-json-api</artifactId>
+    <version>0.9.0</version>
 </dependency>
 ```
 ### Create Test Account

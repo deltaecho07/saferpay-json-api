@@ -6,7 +6,7 @@
 
     <groupId>io.github.deltaecho07</groupId>
     <artifactId>saferpay-json-api</artifactId>
-    <version>2024-11-1-beta</version>
+    <version>0.9.0</version>
     <packaging>jar</packaging>
 
     <name>saferpay-json-api</name>
